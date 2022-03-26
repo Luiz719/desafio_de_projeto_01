@@ -1,0 +1,11 @@
+● git init: inicializa um novo repositório;
+● git clone <https://url-do-link>: download de um repositório existente;
+● git branch <nome-da-branch>: cria um branch, uma ramificação do repositório;
+● git checkout -b <nome-da-branch>: seleciona o branch a ser realizado o commit;
+● git status: fornece informações sobre uma branch;
+● git add <arquivo>: incluir as alterações de um arquivo no próximo commit;
+● git commit: define um ponto de verificação, uma “fotografia” do projeto;
+● git push <remote> <nome-do-branch>: envia as alterações do commit para o repositório;
+● git pull <remote>: obter atualizações do repositório remoto;
+● git revert 'número do hash': reverte alterações para um determinado commit;
+● git merge <nome-da-branch>: faz a mescla de branches.
